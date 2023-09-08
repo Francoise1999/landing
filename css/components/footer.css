@@ -1,0 +1,27 @@
+.footer{
+  background-color: #2c2b2b;
+  padding: 80px 0;
+  margin-top: 50px;
+}
+
+.footer ul{
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer ul li{
+  margin: 8px;
+}
+
+.footer li i{
+  color: #1edd88;
+  font-size: 30px;
+}
+
+.footer p{
+  text-align: center;
+  color: gray;
+  font-size: 16px;
+}
